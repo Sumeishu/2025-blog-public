@@ -11,8 +11,8 @@
 		"width": 360,
 		"height": 288,
 		"order": 1,
-		"offsetX": -176,
-		"offsetY": -58,
+		"offsetX": -184,
+		"offsetY": -60,
 		"enabled": true
 	},
 	"clockCard": {
@@ -45,8 +45,8 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -149,
-		"offsetY": 267,
+		"offsetX": -219,
+		"offsetY": 274,
 		"enabled": true
 	},
 	"shareCard": {
@@ -61,8 +61,8 @@
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": -495,
-		"offsetY": 167,
+		"offsetX": -499,
+		"offsetY": 168,
 		"enabled": true
 	},
 	"writeButtons": {
