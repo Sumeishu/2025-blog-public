@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Sun",
+		"description": "Sumeishu的个人博客，记录探索、笔记。",
+		"username": "Sumeishu"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -30,6 +30,10 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "3eecddab71c4515e",
+			"url": "/images/art/3eecddab71c4515e.jpg"
 		}
 	],
 	"currentArtImageId": "a46372ff45bc5524",
@@ -44,21 +48,14 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Sumeishu",
 			"label": "Github",
 			"order": 3
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "sumeishusun@gmail.com",
 			"label": "",
 			"order": 1
 		}
@@ -67,6 +64,6 @@
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
-	"currentHatIndex": 3,
+	"currentHatIndex": 17,
 	"hatFlipped": false
 }
