@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "Sun",
-		"description": "Sumeishu的个人博客，记录个人笔记。",
-		"username": "Sumeishu"
+		"title": "YYsuni",
+		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "Suni"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -30,13 +30,9 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
-		},
-		{
-			"id": "3eecddab71c4515e",
-			"url": "/images/art/3eecddab71c4515e.jpg"
 		}
 	],
-	"currentArtImageId": "3eecddab71c4515e",
+	"currentArtImageId": "a46372ff45bc5524",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -48,14 +44,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/Sumeishu",
+			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
 		},
 		{
+			"id": "juejin",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
+			"order": 2
+		},
+		{
 			"id": "email",
 			"type": "email",
-			"value": "sumeishusun@gmail.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
 		}
@@ -63,5 +66,7 @@
 	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
-	"hideEditButton": false
+	"hideEditButton": false,
+	"currentHatIndex": 3,
+	"hatFlipped": false
 }
