@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "Sun",
-		"description": "Sumeishu的个人博客，记录探索、笔记。",
+		"description": "Sumeishu的个人博客，记录学习、探索笔记。",
 		"username": "Sumeishu"
 	},
 	"theme": {
@@ -64,6 +64,6 @@
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
-	"currentHatIndex": 17,
+	"currentHatIndex": 3,
 	"hatFlipped": false
 }
