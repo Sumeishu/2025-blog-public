@@ -37,24 +37,24 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 259,
-		"offsetY": 258,
+		"offsetX": -112,
+		"offsetY": 348,
 		"enabled": true
 	},
 	"socialButtons": {
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -210,
-		"offsetY": 268,
+		"offsetX": -222,
+		"offsetY": 270,
 		"enabled": true
 	},
 	"shareCard": {
 		"width": 280,
 		"height": 165,
 		"order": 7,
-		"offsetX": 206,
-		"offsetY": 174,
+		"offsetX": 258,
+		"offsetY": 243,
 		"enabled": true
 	},
 	"articleCard": {
