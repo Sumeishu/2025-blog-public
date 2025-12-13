@@ -52,7 +52,7 @@
 	"shareCard": {
 		"width": 200,
 		"height": 180,
-		"order": 7,
+		"order": 1,
 		"offsetX": null,
 		"offsetY": null,
 		"enabled": true
