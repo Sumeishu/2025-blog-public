@@ -19,5 +19,12 @@
 		"avatar": "/images/blogger/2fe46db88bd43683.svg",
 		"description": "技术团队 blog，咨询、动态、故事。我觉得页面感受还不错。",
 		"stars": 4
+	},
+	{
+		"name": "毒奶",
+		"avatar": "https://limbopro.com/usr/uploads/2022/04/921153523.jpg",
+		"url": "https://limbopro.com/",
+		"description": "分享好东西的博主",
+		"stars": 4
 	}
 ]
