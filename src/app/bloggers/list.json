@@ -7,6 +7,7 @@
 		"stars": 5
 	},
 	{
+<<<<<<< HEAD
 		"name": "Enji Kusnadi",
 		"url": "https://enji.dev/",
 		"avatar": "https://enji.dev/_next/image?url=%2Fassets%2Fimages%2Fme.png&w=1080&q=100",
@@ -91,6 +92,8 @@
 		"status": "disconnected"
 	},
 	{
+=======
+>>>>>>> a4ec3c393d45732082c5812031065a4470e848f5
 		"name": "BlogFinder",
 		"url": "https://bf.zzxworld.com/",
 		"avatar": "https://bf.zzxworld.com/images/favicon.png",
@@ -98,6 +101,7 @@
 		"stars": 3
 	},
 	{
+<<<<<<< HEAD
 		"name": "Tonsky",
 		"url": "https://tonsky.me/",
 		"avatar": "https://avatars.githubusercontent.com/u/285292?v=4",
@@ -113,6 +117,8 @@
 		"status": "disconnected"
 	},
 	{
+=======
+>>>>>>> a4ec3c393d45732082c5812031065a4470e848f5
 		"name": "Chrome Blog",
 		"url": "https://web.dev/blog?hl=zh-cn",
 		"avatar": "/images/blogger/2fe46db88bd43683.svg",
@@ -120,6 +126,7 @@
 		"stars": 4
 	},
 	{
+<<<<<<< HEAD
 		"name": "Huozhi",
 		"url": "https://huozhi.im/",
 		"avatar": "https://avatars.githubusercontent.com/u/4800338?v=4",
@@ -265,5 +272,12 @@
 		"url": "https://blog.dumogu.top/",
 		"description": "前端开发，页面小巧，结构简单，寻常记录",
 		"stars": 3
+=======
+		"name": "毒奶",
+		"avatar": "https://limbopro.com/usr/uploads/2022/04/921153523.jpg",
+		"url": "https://limbopro.com/",
+		"description": "分享好东西的博主",
+		"stars": 4
+>>>>>>> a4ec3c393d45732082c5812031065a4470e848f5
 	}
 ]
